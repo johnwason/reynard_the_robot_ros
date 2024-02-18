@@ -1,0 +1,5 @@
+<launch>
+  <node name="reynard_the_robot_node" pkg="reynard_the_robot_ros" type="reynard_the_robot_ros.py" ns="reynard" output="screen" required="true">
+  </node>
+</launch>
+
